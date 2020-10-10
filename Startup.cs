@@ -15,6 +15,7 @@ namespace AlanDemoProject
     {
         public Startup(IConfiguration configuration)
         {
+            //change made
             Configuration = configuration;
         }
 
